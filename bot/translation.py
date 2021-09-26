@@ -5,20 +5,22 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i> ഞാൻ ഒരു പാവം മൂവി തരുന്ന ബോട് ആണേയ്...😅
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+എടാ മോനേ എന്നെ @LONEX_MOVIE_GROUP ൽ മാത്രമേ ഉപയോഗിക്കാൽ പറ്റുകയുള്ളു🙂.
+എന്റെ മൊതലാളിയുടെ @LONEX_MOVIE_GROUP ൽ ജോയിൻ ചെയ്യാൻ മറക്കല്ലേ..😃💫
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+അടിയിൽ ഉള്ള Mention എന്റെ മൊതലാളിയുടെ ചാനൽ ആണേയ്..😊
+@LONEX_LINKS
+JOIN ചെയ്യാൻ മറക്കല്ലേ 😌
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> U cannot add me to your group.But i can give you movies.Go to @LONEX_MOVIE_GROUP ask a movie and i will give you some buttons which has the movie name you asked
+-> CLICK On the movie name you asked for .then you will come to my pm . Then you will have a option to press start . press on that .and you will get the movie😌.The downloaded file will only work if you have joined to my group and channel😗 
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -43,16 +45,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@LONEX_MOVIE_GROUP
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/AQUA_VLOGGER">AQUA_VLOGGER</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/Abhinavskrishna/kunjappunewbeginning">Click Me</a></i>
 """
